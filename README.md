@@ -17,7 +17,7 @@ OJO-CODERS-BOT | Whatsapp Bot | World Best & Faster Whatsapp Bot | Made In TANZA
 
 *_Start by forking this repository to your own GitHub account. Click the button below to fork:_*
 
-  <a href="https://github.com/Ojohacker/OJO-CODERS-BOT/blob/main/README.md"><img title="OJO-CODERS-BOT" src="https://img.shields.io/badge/FORK-OJO-CODERS-BOTh?color=darkblue&style=for-the-badge&logo=stackshare"></a>
+  <a href="https://github.com/Ojohacker/OJO-CODERS-BOT/fork"><img title="OJO-CODERS-BOT" src="https://img.shields.io/badge/FORK-OJO-CODERS-BOTh?color=darkblue&style=for-the-badge&logo=stackshare"></a>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
