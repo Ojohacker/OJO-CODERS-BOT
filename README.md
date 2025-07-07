@@ -17,7 +17,7 @@ OJO CODERS-BOT | Whatsapp Bot | World Best & Faster Whatsapp Bot | Made In TANZA
 
 *_Start by forking this repository to your own GitHub account. Click the button below to fork:_*
 
-  <a href="https://github.com/Ojohacker/OJO CODERS-BOT/fork"><img title="OJO CODERS-BOT" src="https://img.shields.io/badge/FORK-OJO CODERS-BOTh?color=darkblue&style=for-the-badge&logo=stackshare"></a>
+  <a href="https://github.com/Ojohacker/OJO-CODERS-BOT/fork"><img title="OJO-CODERS-BOT" src="https://img.shields.io/badge/FORK-OJO-CODERS-BOTh?color=darkblue&style=for-the-badge&logo=stackshare"></a>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
@@ -40,12 +40,12 @@ OJO CODERS-BOT | Whatsapp Bot | World Best & Faster Whatsapp Bot | Made In TANZA
    
   1..DEPLOY ON HEROKU ⤵️
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FOjohacker%2FOJO CODERS-BOT) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FOjohacker%2FOJO-CODERS-BOT) 
    
    
   2..DEPLOY ON RENDER ⤵️
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/Ojohacker/OJO CODERS-BOT.git)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/Ojohacker/OJO-CODERS-BOT.git)
 
 
    3..DEPLOY ON GITHUB ⤵️
@@ -101,9 +101,9 @@ jobs:
 
 > DEVELOPER OF OJO CODERS-BOT 
 - [Ojo Coders](https://github.com/Ojohacker)
-- Creater and Owner Of LITE-MD
+- Creater and Owner Of OJO-CODERS-BOT
 
-> OJO CODERS-BOT Helper
+> OJO-CODERS-BOT Helper
 - [Ojohacker](https://github.com/Ojohacker)
 - For helping in bot plugin files.
 ---
